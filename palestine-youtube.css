@@ -96,3 +96,9 @@ div.flex-container > div {
   justify-content: center;
   align-items: center; 
 }
+
+.caption {
+    font-size: 12px;
+    color: black;
+    font-style: italic;
+}

@@ -119,4 +119,10 @@ div.flex-container > div {
   text-align: justify; 
   font-family: Georgia, 'Times New Roman', Times, serif;
   width:700px; 
+} 
+
+.caption {
+    font-size: 12px;
+    color: black;
+    font-style: italic;
 }
